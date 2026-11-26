@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 520" fill="none">
+  <!-- Outer smooth circular wave sweep (Box 1 in design) -->
+  <path d="M0 0 L320 0 C270 120 180 240 0 310 Z" fill="#F1DFC8" opacity="0.85"/>
+  <!-- Inner organic curved arc -->
+  <path d="M0 140 C120 170 190 260 170 370 C150 450 70 495 0 520 Z" fill="#EBD5BD" opacity="0.72"/>
+  <!-- Delicate contour stroke echo -->
+  <path d="M0 20 C140 80 230 180 210 320" stroke="#DFCCA8" stroke-width="1.5" stroke-opacity="0.3" fill="none"/>
+</svg>
